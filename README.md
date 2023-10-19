@@ -1,40 +1,32 @@
 # Sopa
-# Imagenes Adaptables_
-**¿Qué son las imagenes adaptables?** 
 
-[![image.png](https://i.postimg.cc/Z5bdPmtN/image.png)](https://postimg.cc/YhP0kJS2)
+**¿Qué es SOPA?**
 
-Es la encargada de detectar el tamaño de pantalla de su visitante crea aparte de almacenar en caché y entregar automáticamente versiones reescaladas apropiadas para el dispositivo de las imágenes HTML incrustadas en su página web
-|Adaptiva|Sensible|
+ [![SOPA.jpg](https://i.postimg.cc/B6DgrpVG/SOPA.jpg)](https://postimg.cc/JDrZJN8T)
+
+
+
+|Siglas|Sopa
   | :----------- | :----------- |
- |Crea plantillas que son óptimas y únicas para cada clase de dispositivo|Diseño único que fluye a través de la pantalla|
- |Del lado del cliente|Del lado del server|
- |Rejillas de Fluidos|Diseños Predefinidos|
- |Los servidores utilizan HTML que está preseleccionado para diferentes dispositivos|La cuadrícula es flexible y las imágenes tienen el tamaño correcto para la pantalla del dispositivo|
+ |S|Stop|
+ |O|Online|
+ |P|Piracy|
+ |A|Act|
 
-Así que si queremos cambiar el cambio de resolución por si es que queremos mostrar la misma imagen, más grande o más pequeña dependiendo del dispositivo
-Deberiamos usar los codigos
+ 
+Es un proyecto de ley propuesto por el Congreso de los Estados Unidos para ampliar la capacidad de las autoridades policiales estadounidenses para combatir la infracción de derechos de autor en línea y el tráfico en línea de productos falsificados.
+Fueron introducidas el 26 de octubre de 2011 por el representante Lamar Smith es un político estadounidensE que desde 1987 es miembro de la Cámara de Representantes de su país por el distrito 21 de Texas que incluye algunas regiones de San Antonio y de Austin lo mismo que la mayor parte de Texas Hill Country. 
+El 26 de octubre de 2011 presentó el proyecto de la ley SOPA.
 
-[![image.png](https://i.postimg.cc/pTSywc2D/image.png)](https://postimg.cc/k6xn8cR4)
+[![Lamar-S-Smith-official-Congressional-photo-portrait.jpg](https://i.postimg.cc/SxyjFdNn/Lamar-S-Smith-official-Congressional-photo-portrait.jpg)](https://postimg.cc/JG2RjbX8)
 
+Las disposiciones incluían la solicitud de órdenes judiciales para impedir que las redes de publicidad y los servicios de pago realicen negocios con sitios web infractores y que los motores de búsqueda establezcan enlaces a los sitios web y órdenes judiciales lo cual hace que muchas personas no puedan poner videos con libertad debido a que el video que subieron sea dado de baja por tema de derechos de autor al estar relacionado con la persona o un personaje ficticio o incluso música lo cual hace que esta ley no sea del agrado de las personas 
 
-Así, podemos utilizar dos nuevos atributos — srcset y sizes 
-srcset define el conjunto de imágenes que el navegador podrá elegir, y el tamaño de cada imagen, Cada conjunto de información de imagen está separado del anterior por una coma.
+[![8g-W4-807-400x400.jpg](https://i.postimg.cc/ZYF7HPnf/8g-W4-807-400x400.jpg)](https://postimg.cc/MXHmKQyR)
 
-sizes define un conjunto de condiciones de medios (por ejemplo, anchos de pantalla) e indica qué tamaño de imagen sería mejor elegir cuando se cumplen ciertas condiciones de medios — estas son las sugerencias de las que hablamos anterriormente. En este caso, antes de cada coma escribimos:
-
-
-[![image.png](https://i.postimg.cc/DfDbH0Zt/image.png)](https://postimg.cc/xqvCb0LR)
-  
-Así nos quedaria dependiendo la imagen que pongamos
+En todo caso seran dado de baja los videos por reclamos de copyright de la siguiente manera:
 
 
-[![image.png](https://i.postimg.cc/XqVGcB7P/image.png)](https://postimg.cc/tZM49T6d)
+https://youtube.com/shorts/7nHYbGWnn24?si=HcntRiWunWNRujjM
 
 
-Aunque como curiosidad existen mas codigos en HTML para poder cambiar el formato de la imagen que queramos cambiar
-
-
-Tutorial adicional de como hacerlo:
-
-https://youtube.com/shorts/8Rc18lfl68c?si=5jIfVwrCuR0cJCs9
